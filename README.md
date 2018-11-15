@@ -20,17 +20,17 @@ In order to receive full credit for the assignment you must do at minimum the st
 ### Required Steps
 1. Clone the github repository to your desktop.
 2. Modify the scene **Practicum02**:
-	2.1. Add elements to the environment, like a floor, models, lights, skyboxes, etc.
-	2.2. Animate 2 of the objects in your scene by nodifying inspector properties
-		- lights
-		- particles
-		- material
-		- transformation
-	2.3 Generate at least 5 trigger events (using the provided scripts, or using your own), and incorporate:
-		- Triggers within 2 or more objets
-		- Triggers within user and other objects
+2.1. Add elements to the environment, like a floor, models, lights, skyboxes, etc.
+2.2. Animate 2 of the objects in your scene by nodifying inspector properties
+- lights
+- particles
+- material
+- transformation
+2.3 Generate at least 5 trigger events (using the provided scripts, or using your own), and incorporate:
+- Triggers within 2 or more objets
+- Triggers within user and other objects
 3. Commit changes to repository
-	3.1. Add useful commit messages: describe in detail
+3.1. Add useful commit messages: describe in detail
 4. Push committed changes to github.
 
 
